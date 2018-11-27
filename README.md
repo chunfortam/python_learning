@@ -1,1 +1,1 @@
-Learning Python through completing questions on Leetcode
+Learning Python through Leetcode
